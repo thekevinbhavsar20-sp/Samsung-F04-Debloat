@@ -37,10 +37,7 @@ Coming soon.
  
 RECOVERY
  
-If your device becomes unstable after running a script:
-1. Boot into Recovery Mode (varies by model; search "[your model] recovery mode key combo")
-2. Perform a factory reset, or
-3. Use Smart Switch / Odin to reflash stock firmware
+If your device becomes unstable after running a script: Perform a factory reset
  
  
 DISCLAIMER
