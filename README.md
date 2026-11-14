@@ -31,8 +31,8 @@ Removes only light, surface-level apps: Application recommendations, Discover, S
 2. Raw Android
 A more aggressive strip that includes everything in Surface. Removes Samsung and Google extras such as Galaxy Store, Galaxy Themes, Samsung Keyboard, Samsung Account, Find My Mobile, Meet, Google, Meta app installers, config and update services, and more. Meant for power users; the phone stays usable but loses many Samsung services.
  
-3. Minimal
-Coming soon.
+3. Minimal(coming soon)
+Minimal makes a phone only for calls & messages, it removes all the battery consuming applications to maintain old phone.
  
  
 RECOVERY
